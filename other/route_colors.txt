@@ -1,3 +1,5 @@
+These are the hex color codes that TransLink uses for its major routes:
+
 99 B-Line, F47920
 R1, 009F49
 R2, 009F49
