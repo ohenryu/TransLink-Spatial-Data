@@ -7,7 +7,7 @@ TransLink is the statutory public transit authority for the Metro Vancouver regi
 While the individual municipalities within Metro Vancouver have public transit related datasets in their open data portals, there is no comprehensive data available that covers the entire region and is up to date. TransLink provides [General Transit Feed Specification (GTFS) data](https://developer.translink.ca/servicesgtfs/gtfsdata) on a regular basis but the data format is not the most user-friendly, especially for GIS analysis where data formats like .shp and .geojson are preferred. As a result, I created this data repository to provide updated regional TransLink datasets for use in mapping, analysis, data visualization, and more.
 
 <b>How:</b>  
-I have converted the TransLink-provided GTFS data to feature classes and shapefiles using the Public Transit Tools toolbox in ArcGIS Pro. In addition, table join and dissolve operations were performed to preserve data integrity and enhance ease of use. I will provide the Python script tools below for download.
+I converted the TransLink-provided GTFS data to feature classes and shapefiles using the [Public Transit Tools toolbox](https://pro.arcgis.com/en/pro-app/latest/tool-reference/conversion/an-overview-of-the-transit-feed-gtfs-toolset.htm) in ArcGIS Pro. In addition, table join and dissolve operations were performed to preserve data integrity and enhance ease of use. I will provide the Python script tools below for download.
 ___________________________________________________________________________
 <p align="center">
 <img src="images/Transit_Routes.png" width="766" height="450">
