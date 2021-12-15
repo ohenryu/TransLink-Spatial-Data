@@ -45,4 +45,4 @@ ______________________________________________________________________________
 Scroll to the top of this page, click the green button that says 'Code', and then click 'Download ZIP'.
                                                             
 * **If you want a specific dataset:**  
-Scroll up to the available datasets, click on your desired dataset, choose a data format, and copy the URL in your web browser. Open [downgit.github.io](https://downgit.github.io/) or [download-directory.github.io/](https://download-directory.github.io/) and paste the URL.
+Scroll up to the available datasets, click on your desired dataset, choose a data format, and copy the URL in your web browser. Open [downgit.github.io](https://downgit.github.io) or [download-directory.github.io](https://download-directory.github.io) and paste the URL.
