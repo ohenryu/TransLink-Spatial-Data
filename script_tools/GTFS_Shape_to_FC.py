@@ -1,5 +1,5 @@
 # Name: GTFS_Shape_to_FC.py
-# Description: Converts Translink GTFS shapes.txt data into polylines with route names and route type attached to each polyline.
+# Description: Converts GTFS shapes.txt data into polylines with route names and route type attached to each polyline.
 # Date: December 14, 2021
 # ====================================================================================================
 
