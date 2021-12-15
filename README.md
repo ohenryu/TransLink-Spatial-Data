@@ -37,7 +37,7 @@ __*(scroll down for download instructions)*__
 
 * [GTFS_Shape_to_FC.py](script_tools/GTFS_Shape_to_FC.py)
 
-### Other
+### Other:
 * [Hex color codes for major routes](other/route_colors.txt)
 ______________________________________________________________________________
 ### How to Download Datasets  
