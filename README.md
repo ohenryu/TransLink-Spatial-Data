@@ -34,3 +34,6 @@ ______________________________________________________________________________
 ### Script Tools:
 
 * [GTFS_Shape_to_FC.py](script_tools/GTFS_Shape_to_FC.py)
+
+### Other
+* [Hex color codes for major routes](other/route_colors.txt)
