@@ -16,12 +16,13 @@ ___________________________________________________________________________
 ______________________________________________________________________________
 *Datasets are currently based on GTFS data released on Dec.13, 2021*
 
-### Available Datasets:  
-* Transit Routes (all)  
-* SkyTrain Routes   
-* Bus Routes  
-* NightBus Routes  
-* Rapid Transit Routes
+### Available Datasets:
+__*(scroll down for download instructions)*__ 
+* [Transit Routes (all)](/datasets/Transit_Routes_(ALL))   
+* [SkyTrain Routes](datasets/SkyTrain_Routes)   
+* [Bus Routes](datasets/Bus_Routes)
+* [NightBus Routes](datasets/NightBus_Routes)  
+* [Rapid Transit Routes](datasets/Rapid_Transit_Routes)
 
 
 ### In Progress:
@@ -38,3 +39,10 @@ ______________________________________________________________________________
 
 ### Other
 * [Hex color codes for major routes](other/route_colors.txt)
+______________________________________________________________________________
+### How to Download Datasets  
+* **If you want the whole repository:**  
+Scroll to the top of this page, click the green button that says 'Code', and then click 'Download ZIP'.
+                                                            
+* **If you want a specific dataset:**  
+Scroll up to the available datasets, click on your desired data format and copy the URL in your web browser. Open [downgit.github.io](https://downgit.github.io/) or [download-directory.github.io/](https://download-directory.github.io/) and paste the URL.
