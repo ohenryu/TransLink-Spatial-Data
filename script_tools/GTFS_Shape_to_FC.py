@@ -1,6 +1,9 @@
 # Name: GTFS_Shape_to_FC.py
 # Description: Converts GTFS shapes.txt data into polylines with route names and route type attached to each polyline.
 # Date: December 14, 2021
+# Parameters: GTFS shapes.txt / Text File / Required / Input
+#             Output Feature Class/ Feature Class / Required / Output
+#             Output Coordinate System / Coordinate System / Required / Input
 # ====================================================================================================
 
 # Import modules
@@ -42,11 +45,3 @@ arcpy.management.Project(temp_FC_1, output_FC, projection)
 # Delete temporary feature classes from geodatabase
 arcpy.management.Delete(temp_FC_0)
 arcpy.management.Delete(temp_FC_1)
-
-
-
-
-
-
-
-
