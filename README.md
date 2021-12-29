@@ -16,7 +16,7 @@ ___________________________________________________________________________
 ______________________________________________________________________________
 *Datasets are currently based on GTFS data released on Dec. 22, 2021*
 
-### Available Datasets:
+### Available Datasets (.shp, .gdb, .geojson):
 __*(scroll down for download instructions)*__ 
 * [Transit Routes (all)](/datasets/Transit_Routes_(ALL))   
 * [SkyTrain Routes](datasets/SkyTrain_Routes)   
@@ -31,7 +31,6 @@ __*(scroll down for download instructions)*__
 * SkyTrain Stations   
 * Bus Stations  
 * Transit Frequency  
-* Datasets in geojson format  
 
 ### Script Tools:
 
