@@ -1,7 +1,7 @@
 # TransLink Spatial Data
 
 <b>What:</b>   
-TransLink is the statutory public transit authority for the Metro Vancouver region. This GitHub repository is a collection of free, public, and ready-for-analysis TransLink datasets that I have created.
+TransLink is the statutory public transit authority for the Metro Vancouver region. This GitHub repository is a collection of free, public, and ready-for-analysis TransLink GIS datasets that I have created.
 
 <b>Why:</b>  
 While individual municipalities within Metro Vancouver have public transit related datasets in their open data portals, there is no comprehensive data publicly available that covers the entire region and is up to date. TransLink provides [General Transit Feed Specification (GTFS) data](https://developer.translink.ca/servicesgtfs/gtfsdata) on a regular basis but the data format is not very user-friendly, especially for GIS analysis where data formats like .shp and .geojson are preferred. As a result, I created this data repository to provide updated regional TransLink datasets for use in mapping, analysis, data visualization, and more.
