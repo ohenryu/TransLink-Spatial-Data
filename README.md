@@ -14,7 +14,7 @@ ___________________________________________________________________________
 </p>  
 
 ______________________________________________________________________________
-*Datasets are currently based on GTFS data released on Dec. 22, 2021*
+*Datasets are currently based on GTFS data released on Jan. 7, 2022*
 
 ### Available Datasets [.shp / .gdb / .geojson]:
 __*(scroll down for download instructions)*__ 
