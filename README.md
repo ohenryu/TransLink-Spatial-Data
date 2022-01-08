@@ -4,7 +4,7 @@
 TransLink is the statutory public transit authority for the Metro Vancouver region. This GitHub repository is a collection of free, public, and ready-for-analysis TransLink GIS datasets that I have created.
 
 <b>Why:</b>  
-While individual municipalities within Metro Vancouver have public transit related datasets in their open data portals, there is no comprehensive data publicly available that covers the entire region and is up to date. TransLink provides [General Transit Feed Specification (GTFS) data](https://developer.translink.ca/servicesgtfs/gtfsdata) on a regular basis but the data format is not very user-friendly, especially for GIS analysis where data formats like shapefiles and GeoJSON are preferred. As a result, I created this data repository to provide updated regional TransLink datasets for use in mapping, analysis, data visualization, and more.
+While individual municipalities within Metro Vancouver have public transit related datasets in their open data portals, there is a lack of publicly available data that covers the entire region and is up to date. TransLink provides [General Transit Feed Specification (GTFS) data](https://developer.translink.ca/servicesgtfs/gtfsdata) on a regular basis but the data format is not very user-friendly, especially for GIS analysis where data formats like shapefiles and GeoJSON are preferred. As a result, I created this data repository to provide updated regional TransLink datasets for use in mapping, analysis, data visualization, and more.
 
 <b>How:</b>  
 I converted the TransLink-provided GTFS data to feature classes and shapefiles using the [Public Transit Tools toolbox](https://pro.arcgis.com/en/pro-app/latest/tool-reference/conversion/an-overview-of-the-transit-feed-gtfs-toolset.htm) in ArcGIS Pro. In addition, table join and dissolve operations were performed to preserve data integrity and enhance ease of use. I will provide the Python script tools below for download.
@@ -16,7 +16,7 @@ ___________________________________________________________________________
 ______________________________________________________________________________
 *Datasets are currently based on GTFS data released on Jan. 7, 2022*
 
-### Available Datasets [.shp / .gdb / .geojson]:
+### Available Datasets:
 __*(scroll down for download instructions)*__ 
 * [Transit Routes (all)](/datasets/Transit_Routes_(ALL))   
 * [SkyTrain Routes](datasets/SkyTrain_Routes)   
@@ -24,6 +24,10 @@ __*(scroll down for download instructions)*__
 * [NightBus Routes](datasets/NightBus_Routes)  
 * [Rapid Transit Routes](datasets/Rapid_Transit_Routes)
 
+| Dataset | Preview | Download |   
+| :-------------: | :-------------: | :-------------: |  
+| Transit Routes (all) | [View](https://github.com/ohenryu/TransLink-Spatial-Data/blob/main/datasets/Transit_Routes_(ALL)/GeoJSON/Transit_Routes_ALL.geojson) | [.gdb](https://downgit.github.io/#/home?url=https://github.com/ohenryu/TransLink-Spatial-Data/tree/main/datasets/Transit_Routes_(ALL)/Transit_Routes_ALL.gdb) / [.shp](https://downgit.github.io/#/home?url=https://github.com/ohenryu/TransLink-Spatial-Data/tree/main/datasets/Transit_Routes_(ALL)/Shapefile) / [.geojson](https://downgit.github.io/#/home?url=https://github.com/ohenryu/TransLink-Spatial-Data/tree/main/datasets/Transit_Routes_(ALL)/GeoJSON) |  
+| SkyTrain Routes | [View]() | [.gdb]() |
 
 ### In Progress:
 * Transit Stations (all)  
