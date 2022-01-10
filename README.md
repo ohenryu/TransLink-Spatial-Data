@@ -16,17 +16,15 @@ ___________________________________________________________________________
 ______________________________________________________________________________
 *Datasets are currently based on GTFS data released on Jan. 7, 2022*
 
-### Available Datasets:
-__*(scroll down for download instructions)*__ 
-* [Transit Routes (all)](/datasets/Transit_Routes_(ALL))   
-* [SkyTrain Routes](datasets/SkyTrain_Routes)   
-* [Bus Routes](datasets/Bus_Routes)
-* [NightBus Routes](datasets/NightBus_Routes)  
-* [Rapid Transit Routes](datasets/Rapid_Transit_Routes)
+### Available Datasets:   
 
 | Dataset | Preview | Download |   
-| :-------------: | :-------------: | :-------------: |  
-| Transit Routes (all) | [View](https://github.com/ohenryu/TransLink-Spatial-Data/blob/main/datasets/Transit_Routes_ALL/Transit_Routes_ALL_GeoJSON/Transit_Routes_ALL.geojson) | [.gdb](https://downgit.github.io/#/home?url=https://github.com/ohenryu/TransLink-Spatial-Data/tree/main/datasets/Transit_Routes_ALL/Transit_Routes_ALL_Feature_Class) / [.shp](https://downgit.github.io/#/home?url=https://github.com/ohenryu/TransLink-Spatial-Data/tree/main/datasets/Transit_Routes_ALL/Transit_Routes_ALL_Shapefile) / [.geojson](https://downgit.github.io/#/home?url=https://github.com/ohenryu/TransLink-Spatial-Data/tree/main/datasets/Transit_Routes_ALL/Transit_Routes_ALL_GeoJSON) <a href="" target="_blank">New</a>|  
+| :------------- | :-------------: | :-------------: |  
+| Transit Routes (ALL) | [View](https://github.com/ohenryu/TransLink-Spatial-Data/blob/main/datasets/Transit_Routes_ALL/Transit_Routes_ALL_GeoJSON/Transit_Routes_ALL.geojson) | [.gdb](https://downgit.github.io/#/home?url=https://github.com/ohenryu/TransLink-Spatial-Data/tree/main/datasets/Transit_Routes_ALL/Transit_Routes_ALL_Feature_Class) / [.shp](https://downgit.github.io/#/home?url=https://github.com/ohenryu/TransLink-Spatial-Data/tree/main/datasets/Transit_Routes_ALL/Transit_Routes_ALL_Shapefile) / [.geojson](https://downgit.github.io/#/home?url=https://github.com/ohenryu/TransLink-Spatial-Data/tree/main/datasets/Transit_Routes_ALL/Transit_Routes_ALL_GeoJSON)
+| SkyTrain Routes | [View](https://github.com/ohenryu/TransLink-Spatial-Data/blob/main/datasets/SkyTrain_Routes/SkyTrain_Routes_GeoJSON/SkyTrain_Routes.geojson) | [.gdb](https://downgit.github.io/#/home?url=https://github.com/ohenryu/TransLink-Spatial-Data/tree/main/datasets/SkyTrain_Routes/SkyTrain_Routes_Feature_Class) / [.shp](https://downgit.github.io/#/home?url=https://github.com/ohenryu/TransLink-Spatial-Data/tree/main/datasets/SkyTrain_Routes/SkyTrain_Routes_Shapefile) / [.geojson](https://downgit.github.io/#/home?url=https://github.com/ohenryu/TransLink-Spatial-Data/tree/main/datasets/SkyTrain_Routes/SkyTrain_Routes_GeoJSON)
+| Bus Routes (ALL) | [View](https://github.com/ohenryu/TransLink-Spatial-Data/blob/main/datasets/Bus_Routes/Bus_Routes_GeoJSON/Bus_Routes.geojson) | [.gdb](https://downgit.github.io/#/home?url=https://github.com/ohenryu/TransLink-Spatial-Data/tree/main/datasets/Bus_Routes/Bus_Routes_Feature_Class) / [.shp](https://downgit.github.io/#/home?url=https://github.com/ohenryu/TransLink-Spatial-Data/tree/main/datasets/Bus_Routes/Bus_Routes_Shapefile) / [.geojson](https://downgit.github.io/#/home?url=https://github.com/ohenryu/TransLink-Spatial-Data/tree/main/datasets/Bus_Routes/Bus_Routes_GeoJSON)
+| NightBus Routes | [View](https://github.com/ohenryu/TransLink-Spatial-Data/blob/main/datasets/NightBus_Routes/NightBus_Routes_GeoJSON/NightBus_Routes.geojson) | [.gdb](https://downgit.github.io/#/home?url=https://github.com/ohenryu/TransLink-Spatial-Data/tree/main/datasets/NightBus_Routes/NightBus_Routes_Feature_Class) / [.shp](https://downgit.github.io/#/home?url=https://github.com/ohenryu/TransLink-Spatial-Data/tree/main/datasets/NightBus_Routes/NightBus_Routes_Shapefile) / [.geojson](https://downgit.github.io/#/home?url=https://github.com/ohenryu/TransLink-Spatial-Data/tree/main/datasets/NightBus_Routes/NightBus_Routes_GeoJSON)
+| Rapid Transit Routes | [View](https://github.com/ohenryu/TransLink-Spatial-Data/blob/main/datasets/Rapid_Transit_Routes/Rapid_Transit_Routes_GeoJSON/Rapid_Transit_Routes.geojson) | [.gdb](https://downgit.github.io/#/home?url=https://github.com/ohenryu/TransLink-Spatial-Data/tree/main/datasets/Rapid_Transit_Routes/Rapid_Transit_Routes_Feature_Class) / [.shp](https://downgit.github.io/#/home?url=https://github.com/ohenryu/TransLink-Spatial-Data/tree/main/datasets/Rapid_Transit_Routes/Rapid_Transit_Routes_Shapefile) / [.geojson](https://downgit.github.io/#/home?url=https://github.com/ohenryu/TransLink-Spatial-Data/tree/main/datasets/Rapid_Transit_Routes/Rapid_Transit_Routes_GeoJSON)  
 
 ### In Progress:
 * Transit Stations (all)  
@@ -41,10 +39,3 @@ __*(scroll down for download instructions)*__
 
 ### Other:
 * [Hex color codes for major routes](other/route_colors.txt)
-______________________________________________________________________________
-### How to Download Datasets  
-* **If you want the whole repository:**  
-Scroll to the top of this page, click the green button that says 'Code', and then click 'Download ZIP'.
-                                                            
-* **If you want a specific dataset:**  
-Scroll up to the available datasets, click on your desired dataset, choose a data format, and copy the URL in your web browser. Open [downgit.github.io](https://downgit.github.io) or [download-directory.github.io](https://download-directory.github.io) and paste the URL.
