@@ -26,7 +26,7 @@ __*(scroll down for download instructions)*__
 
 | Dataset | Preview | Download |   
 | :-------------: | :-------------: | :-------------: |  
-| Transit Routes (all) | [View](https://github.com/ohenryu/TransLink-Spatial-Data/blob/main/datasets/Transit_Routes_ALL/Transit_Routes_ALL_GeoJSON/Transit_Routes_ALL.geojson) | [.gdb](https://github.com/ohenryu/TransLink-Spatial-Data/tree/main/datasets/Transit_Routes_ALL/Transit_Routes_ALL_Feature_Class) / [.shp](https://github.com/ohenryu/TransLink-Spatial-Data/tree/main/datasets/Transit_Routes_ALL/Transit_Routes_ALL_Shapefile) / [.geojson](https://github.com/ohenryu/TransLink-Spatial-Data/tree/main/datasets/Transit_Routes_ALL/Transit_Routes_ALL_GeoJSON) |  
+| Transit Routes (all) | [View](https://github.com/ohenryu/TransLink-Spatial-Data/blob/main/datasets/Transit_Routes_ALL/Transit_Routes_ALL_GeoJSON/Transit_Routes_ALL.geojson) | [.gdb](https://downgit.github.io/#/home?url=https://github.com/ohenryu/TransLink-Spatial-Data/tree/main/datasets/Transit_Routes_ALL/Transit_Routes_ALL_Feature_Class) / [.shp](https://downgit.github.io/#/home?url=https://github.com/ohenryu/TransLink-Spatial-Data/tree/main/datasets/Transit_Routes_ALL/Transit_Routes_ALL_Shapefile) / [.geojson](https://downgit.github.io/#/home?url=https://github.com/ohenryu/TransLink-Spatial-Data/tree/main/datasets/Transit_Routes_ALL/Transit_Routes_ALL_GeoJSON) |  
 
 ### In Progress:
 * Transit Stations (all)  
