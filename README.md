@@ -14,7 +14,7 @@ ___________________________________________________________________________
 </p>  
 
 ______________________________________________________________________________
-*Datasets are currently based on GTFS data released on Jan. 7, 2022*
+*Datasets are currently based on GTFS data released on Jan. 14, 2022*
 
 ### Available Datasets:   
 
