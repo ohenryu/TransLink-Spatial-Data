@@ -2,19 +2,13 @@
 import pandas as pd
 import numpy as np
 import os
-import arcpy
-
-in_routes = arcpy.GetParameterAsText(0)
-in_stops = arcpy.GetParameterAsText(1)
-in_stop_times = arcpy.GetParameterAsText(2)
-in_trips = arcpy.GetParameterAsText(3)
-out_stops= arcpy.GetParameterAsText(4)
+#import arcpy
 
 # Read in GTFS text files as Pandas dataframes
-routes_df = pd.read_csv(in_routes, header = 0)
-stops_df = pd.read_csv(in_stops, header = 0)
-stop_times_df = pd.read_csv(in_stop_times, header = 0)
-trips_df = pd.read_csv(in_trips, header = 0)
+routes_df = pd.read_csv(r"D:\GIS Proj\ArcPro\TransLink GTFS\GTFS data\test\routes.txt", header = 0)
+stops_df = pd.read_csv(r"D:\GIS Proj\ArcPro\TransLink GTFS\GTFS data\test\stops.txt", header = 0)
+stop_times_df = pd.read_csv(r"D:\GIS Proj\ArcPro\TransLink GTFS\GTFS data\test\stop_times.txt", header = 0)
+trips_df = pd.read_csv(r"D:\GIS Proj\ArcPro\TransLink GTFS\GTFS data\test\trips.txt", header = 0)
 
 # Fill in missing values in the 'route_short_name' column using values in the 'route_long_name' column
 for index in routes_df.index:
@@ -85,4 +79,3 @@ df_final.apply(fill_route, axis=1)
 df_final["routes"] = df_final["routes"].apply(remove_lead_zero)
 
 df_final.to_csv(r"D:\GIS Proj\ArcPro\TransLink GTFS\GTFS data\test\df_final.csv")
-
